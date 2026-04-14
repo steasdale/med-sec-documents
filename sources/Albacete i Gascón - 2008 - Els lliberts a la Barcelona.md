@@ -1,7 +1,8 @@
 ---
 title: "Els lliberts a la Barcelona del segle XV"
 author: "Antoni Albacete i Gascón"
-abstract:|  Els esclaus que aconseguiren la llibertat, i no retornaven a les seves terres d'origen, utilitzaren les mateixes estratègies d'integració que seguien les altres persones lliures. S’incorporaven en aquella societat, ja com a membres lliures, a partir de les esferes laborals, familiars i religioses. A través de diverses tipologies de la documentació notarial, analitzades en aquest treball, trobem els lliberts barcelonins del segle XV realitzant transaccions comercials; rebent i establint llegats testamentaris; casant-se, amb d'altres lliberts o amb lliures de natura; atorgant procures; delinquint; i, fins i tot, sobresortint socialment i rebent el reconeixement de la monarquia.
+abstract:|
+Els esclaus que aconseguiren la llibertat, i no retornaven a les seves terres d'origen, utilitzaren les mateixes estratègies d'integració que seguien les altres persones lliures. S’incorporaven en aquella societat, ja com a membres lliures, a partir de les esferes laborals, familiars i religioses. A través de diverses tipologies de la documentació notarial, analitzades en aquest treball, trobem els lliberts barcelonins del segle XV realitzant transaccions comercials; rebent i establint llegats testamentaris; casant-se, amb d'altres lliberts o amb lliures de natura; atorgant procures; delinquint; i, fins i tot, sobresortint socialment i rebent el reconeixement de la monarquia.
 xml-lang: "ca"
 citation: "Albacete i Gascón, Antoni. “Els lliberts a la Barcelona del segle XV.” *Estudis històrics i documents dels arxius de protocols* 26 (2008): 147–90."
 ---
