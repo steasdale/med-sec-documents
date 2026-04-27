@@ -1,9 +1,8 @@
 ---
-title: "Le petit peuple des esclaves en Toscane, à la fin du Moyen Âge"
-author: "Robert Delort"
-xml-lang: "fr"
+title: Le petit peuple des esclaves en Toscane, à la fin du Moyen Âge
+author: Robert Delort
+xml-lang: fr
 citation: "Robert Delort, “Le petit peuple des esclaves en Toscane, à la fin du Moyen Âge,” in *Le petit peuple dans l’Occident médiéval: terminologies, perceptions, réalités*, Actes du congrès international tenu à l’Université de Montréal, 18–23 octobre 1999, ed. Pierre Boglioni et al. (Paris: Éditions de la Sorbonne, 2002), 379–94."
-keywords: "Florence", "Mediterranean", "1300s", "1400s", "Slavery", "Social History"
 ---
 
 # Transcript
