@@ -1,10 +1,10 @@
 ---
-title: Sul limite delle crociate: Liguri di Ponente nel regno di Tunisi
-author: Laura Balletto
+title: "Sul limite delle crociate: Liguri di Ponente nel regno di Tunisi"
+author: "Laura Balletto"
 xml-lang: "it"
-type: article
+type: "article"
 citation: "Balletto, Laura. “Sul limite delle crociate: Liguri di Ponente nel regno di Tunisi.” Rivista ingauna e intemelia 2ª serie, 51 (1996): 89–96."
-status: incomplete
+status: "incomplete"
 ---
 
 **
