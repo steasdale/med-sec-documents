@@ -1,6 +1,6 @@
 ---
 title: Els lliberts a la Barcelona del segle XV
-author: Antoni Albacete i Gascón"
+author: Antoni Albacete i Gascón
 xml-lang: "ca"
 citation: "Albacete i Gascón, Antoni. “Els lliberts a la Barcelona del segle XV.” *Estudis històrics i documents dels arxius de protocols* 26 (2008): 147–90."
 ---
